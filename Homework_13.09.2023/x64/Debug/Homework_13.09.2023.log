@@ -1,0 +1,3 @@
+﻿  Undo_Redo.cpp
+C:\Users\student\source\repos\Homework_13.09.2023\Homework_13.09.2023\Undo_Redo.cpp(22,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Homework_13.09.2023.vcxproj -> C:\Users\student\source\repos\Homework_13.09.2023\x64\Debug\Homework_13.09.2023.exe
