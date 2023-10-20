@@ -130,7 +130,7 @@ void ActionPerforms(int choice, Undo_Redo& editor)
     }
 }
 
-// I use in this program <stack> library, because its easier to use aready done stack and manage it
+// I use in this program library <stack> , because its easier to use aready done stack and manage it
 
 int main() {
     Undo_Redo editor;
